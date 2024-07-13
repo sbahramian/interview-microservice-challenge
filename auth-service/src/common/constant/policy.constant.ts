@@ -1,0 +1,1 @@
+export const CHECK_POLICY_KEY = 'CHECK_POLICY';

@@ -1,0 +1,92 @@
+{
+    "NOT_FOUND": {
+        "code": {
+            "enum": "NOT_FOUND", 
+            "number": 10404
+        },
+        "text": {
+            "developer": "User not found.", 
+            "client": "User not found."
+        }
+    },
+    "TOKEN_NOT_FOUND": {
+        "code": {
+            "enum": "TOKEN_NOT_FOUND", 
+            "number": 10404
+        },
+        "text": {
+            "developer": "User token not found.", 
+            "client": "User token not found."
+        }
+    },
+    "USER_EMAIL_ALREADY_EXIST": {
+        "code": {
+            "enum": "USER_EMAIL_ALREADY_EXIST", 
+            "number": 10409
+        },
+        "text": {
+            "developer": "Email already exist.", 
+            "client": "Email already exist."
+        }
+    },
+    "USER_EMAIL_NOT_FOUND": {
+        "code": {
+            "enum": "USER_EMAIL_NOT_FOUND", 
+            "number": 10404
+        },
+        "text": {
+            "developer": "User email not found.", 
+            "client": "User email not found."
+        }
+    },
+    "UPDATING_USER_PROFILE_SUCCESSFULLY": {
+        "code": {
+            "enum": "UPDATING_USER_PROFILE_SUCCESSFULLY", 
+            "number": 10200
+        },
+        "text": {
+            "developer": "User profile update successfully.", 
+            "client": "User profile update successfully."
+        }
+    },
+    "SIGNUP_USER_ACCOUNT_SUCCESSFULLY": {
+        "code": {
+            "enum": "SIGNUP_USER_ACCOUNT_SUCCESSFULLY", 
+            "number": 10200
+        },
+        "text": {
+            "developer": "Signup user profile update successfully.", 
+            "client": "Signup user profile update successfully."
+        }
+    },
+    "GET_USER_PROFILE_SUCCESSFULLY": {
+        "code": {
+            "enum": "GET_USER_PROFILE_SUCCESSFULLY", 
+            "number": 10200
+        },
+        "text": {
+            "developer": "Get user profile successfully.", 
+            "client": "Get user profile successfully."
+        }
+    },
+    "SIGNUP_PROCCESS_COMPLETED_BEFORE": {
+        "code": {
+            "enum": "SIGNUP_PROCCESS_COMPLETED_BEFORE", 
+            "number": 10409
+        },
+        "text": {
+            "developer": "You already signed up!", 
+            "client": "You already signed up!"
+        }
+    },
+    "USER_LOGOUT_SUCCESSFULLY": { 
+        "code": {
+            "enum": "USER_LOGOUT_SUCCESSFULLY", 
+            "number": 10200
+        },
+        "text": {
+            "developer": "User logout success", 
+            "client": "User logout success"
+        }
+    }
+}

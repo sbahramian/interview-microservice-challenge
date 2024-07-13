@@ -1,0 +1,17 @@
+export {
+  GetVersionRequestDto,
+  GetTasksDto,
+  GetTaskIdRequestDto,
+  AddNewTaskRequestDto,
+  UpdateTaskDto,
+  DeleteTaskDto,
+  UpdateTasksDto,
+  DestroyTaskDto,
+  RestoreTaskDto,
+  GetTaskFeedsDto,
+  GetTaskResponseDto,
+  GetTasksResponseDto,
+  UpdateTasksResponseDto,
+  DeleteTasksResponseDto,
+  GetTaskFeedsResponseDto,
+} from './task.dto';
